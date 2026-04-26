@@ -1,3 +1,4 @@
+package Classes;
 public class ProfessorTest01 {
     static void main(String[] args) {
         Professor professor = new Professor();
