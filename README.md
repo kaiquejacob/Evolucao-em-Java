@@ -1,52 +1,109 @@
-# ☕ Evolução em Java
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Em%20progresso-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nível-Iniciante%20ao%20Intermediário-blue?style=for-the-badge" />
-</p>
+<div align="center">
 
-Repositório com exercícios e projetos desenvolvidos durante meu aprendizado de Java.
-Aqui documento minha evolução desde a sintaxe básica até os pilares da Orientação a Objetos.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=750&lines=%5BSYSTEM%5D+JAVA+EVOLUTION+INITIALIZING...;%5BSYSTEM%5D+LOADING+KNOWLEDGE+MODULES...;%5BSYSTEM%5D+OBJECT+ORIENTED+MODULE+ONLINE;%5BSYSTEM%5D+LEARNING+IN+PROGRESS..." alt="Typing Animation">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070A,50:0B1F3A,100:061A36&text=JAVA%20%2F%2F%20EVOLUTION&fontSize=40&fontColor=E6F1FF&fontAlignY=40&desc=KAIQUE%20JACOB%20%7C%20LEARNING%20JOURNEY&descAlignY=65&descSize=15" width="100%" alt="Java Evolution Banner">
+
+</div>
 
 ---
 
-## 📚 Conteúdo
+<div align="center">
 
-| Tópico | Descrição |
+![Java](https://img.shields.io/badge/Java%2017%2B-0B0F14?style=for-the-badge&logo=openjdk&logoColor=2F81F7)
+![Status](https://img.shields.io/badge/Status-In%20Progress-0B0F14?style=for-the-badge&logo=github&logoColor=2F81F7)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20%7C%20VS%20Code-0B0F14?style=for-the-badge&logo=intellijidea&logoColor=2F81F7)
+
+</div>
+
+## `01 // SOBRE`
+
+Este repositório documenta minha evolução no aprendizado de **Java**, começando pelos fundamentos da linguagem e avançando para **Programação Orientada a Objetos**.
+
+Aqui ficam exercícios, estudos e projetos usados para transformar teoria em prática.
+
+---
+
+## `02 // ROADMAP`
+
+```text
+JAVA EVOLUTION
+
+[✓] Fundamentos
+[✓] Controle de fluxo
+[✓] Laços de repetição
+[✓] Arrays e métodos
+[✓] Classes e objetos
+[✓] Encapsulamento
+[✓] Herança
+[✓] Polimorfismo
+[✓] Classes abstratas
+[✓] Interfaces
+[✓] Enum
+
+[→] Tratamento de exceções
+[→] Collections
+[→] Generics
+[→] Lambdas / Streams
+[→] JDBC
+```
+
+---
+
+## `03 // MÓDULOS`
+
+| Módulo | Conteúdo |
 |---|---|
-| Fundamentos | Variáveis, tipos primitivos, operadores, casting |
-| Controle de Fluxo | `if/else`, `switch`, operador ternário |
-| Laços | `for`, `while`, `do-while`, `for-each` |
-| Arrays e Métodos | Vetores, matrizes, sobrecarga, varargs |
-| Orientação a Objetos | Classes, objetos, construtores, `this`, blocos de inicialização |
-| Encapsulamento | Getters, setters, modificadores de acesso |
-| Herança | `extends`, `super`, `@Override`, `final` |
-| Polimorfismo | Referência pelo tipo pai, `instanceof`, casting de objetos |
-| Abstrações | Classes abstratas, interfaces, métodos `default` e `static` |
-| Enumeração | `enum` com construtores, atributos e métodos |
-
-
+| 📘 Fundamentos básicos | Variáveis, tipos, operadores, casting, condicionais e loops |
+| 🧩 Orientação a Objetos | Classes, objetos, construtores, encapsulamento, herança e polimorfismo |
+| 🛠️ Classes Utilitárias | Recursos e classes utilitárias da linguagem |
+| ⚠️ Exceções | Tratamento e controle de exceções em Java |
+| 🚀 Projetos | Aplicação prática dos conceitos estudados |
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## `04 // ESTRUTURA`
 
-- **Java 17+**
-- IDE: IntelliJ IDEA / VS Code
+```text
+Evolucao-em-Java/
+├── Fundamentos básicos/
+├── Orientação a Objetos/
+├── Java Classes Utilitárias/
+├── Java Exceções/
+├── Projetos/
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 
 ---
 
-## 📈 Meu progresso
+## `05 // TECNOLOGIAS`
 
-- [x] Sintaxe básica e tipos de dados
-- [x] Condicionais e laços de repetição
-- [x] Arrays e métodos
-- [x] Classes e objetos
-- [x] Herança e polimorfismo
-- [x] Interfaces e classes abstratas
-- [x] Enumeração
-- [ ] Tratamento de exceções
-- [ ] Coleções (ArrayList, HashMap...)
-- [ ] Generics
-- [ ] Lambdas e Streams
-- [ ] JDBC
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,idea,vscode,git,github&theme=dark" alt="Java Tech Stack">
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[SYSTEM STATUS]
+
+Language : JAVA
+Version  : 17+
+Focus    : OBJECT-ORIENTED PROGRAMMING
+Status   : EVOLVING
+
+> keep_learning();
+> keep_building();
+```
+
+<a href="https://github.com/kaiquejacob">
+<img src="https://img.shields.io/badge/BACK_TO_GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=2F81F7" alt="GitHub">
+</a>
+
+</div>
