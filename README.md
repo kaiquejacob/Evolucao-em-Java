@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java%2017%2B-0B0F14?style=for-the-badge&logo=openjdk&logoColor=2F81F7)
+![Java](https://img.shields.io/badge/Java%2021%2B-0B0F14?style=for-the-badge&logo=openjdk&logoColor=2F81F7)
 ![Status](https://img.shields.io/badge/Status-Evolving-0B0F14?style=for-the-badge&logo=github&logoColor=2F81F7)
 
 </div>
