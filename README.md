@@ -12,11 +12,10 @@
 
 ![Java](https://img.shields.io/badge/Java%2017%2B-0B0F14?style=for-the-badge&logo=openjdk&logoColor=2F81F7)
 ![Status](https://img.shields.io/badge/Status-Evolving-0B0F14?style=for-the-badge&logo=github&logoColor=2F81F7)
-![Focus](https://img.shields.io/badge/Focus-POO-0B0F14?style=for-the-badge&logo=java&logoColor=2F81F7)
 
 </div>
 
-## `01 // SOBRE`
+## `SOBRE`
 
 Repositório criado para documentar minha evolução no **Java**, dos fundamentos da linguagem até conceitos de **Programação Orientada a Objetos**, classes utilitárias, tratamento de exceções e projetos práticos.
 
@@ -24,7 +23,7 @@ A organização acompanha minha evolução por módulos de estudo.
 
 ---
 
-## `02 // ROADMAP`
+## `ROADMAP`
 
 ```text
 JAVA EVOLUTION
@@ -61,7 +60,7 @@ JAVA EVOLUTION
 
 ---
 
-## `03 // MÓDULOS`
+## `MÓDULOS`
 
 | Módulo | Conteúdo |
 |---|---|
@@ -71,34 +70,10 @@ JAVA EVOLUTION
 | ⚠️ Exceções | Exceções, RuntimeException e exceções personalizadas |
 | 🚀 Projetos | Aplicação prática dos conceitos estudados |
 
----
-
-## `04 // PROJETOS`
-
-### 🧮 Calculadora
-Operações matemáticas utilizando Java.
-
-### 📊 Sistema de Alunos
-Prática de classes, objetos, atributos e métodos.
-
-### 🛒 Cadastro de Produtos
-Cadastro e gerenciamento de produtos.
-
-### 🏧 Caixa Eletrônico
-Simulação de operações bancárias e histórico de transações.
-
-### 🌡️ Conversor de Unidades
-Conversão de temperatura, distância e peso.
-
-### 📐 IMC
-Cálculo de IMC utilizando entrada de dados e lógica de programação.
-
-### 🔢 Tabuada
-Exercício de repetição e processamento de dados.
 
 ---
 
-## `05 // ESTRUTURA`
+## `ESTRUTURA`
 
 ```text
 Evolucao-em-Java/
@@ -114,7 +89,7 @@ Evolucao-em-Java/
 
 ---
 
-## `06 // TECNOLOGIAS`
+## `TECNOLOGIAS`
 
 <div align="center">
 
@@ -135,8 +110,6 @@ Focus    : OBJECT-ORIENTED PROGRAMMING
 Modules  : COMPLETE
 Status   : EVOLVING
 
-> keep_learning();
-> keep_building();
 ```
 
 <a href="https://github.com/kaiquejacob">
