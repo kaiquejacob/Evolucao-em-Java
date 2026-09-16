@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=780&lines=%5BSYSTEM%5D+JAVA+EVOLUTION+ONLINE;%5BSYSTEM%5D+LOADING+KNOWLEDGE+MODULES...;%5BSYSTEM%5D+FUNCTIONAL+MODULE+ONLINE;%5BSYSTEM%5D+LEARNING+IN+PROGRESS..." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=780&lines=%5BSYSTEM%5D+JAVA+EVOLUTION+ONLINE;%5BSYSTEM%5D+LOADING+KNOWLEDGE+MODULES...;%5BSYSTEM%5D+CONCURRENCY+MODULE+ONLINE;%5BSYSTEM%5D+LEARNING+IN+PROGRESS..." alt="Typing Animation">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070A,50:0B1F3A,100:061A36&text=JAVA%20%2F%2F%20EVOLUTION&fontSize=40&fontColor=E6F1FF&fontAlignY=40&desc=KAIQUE%20JACOB%20%7C%20JAVA%20LEARNING%20JOURNEY&descAlignY=65&descSize=15" width="100%" alt="Java Evolution Banner">
 
@@ -17,7 +17,7 @@
 
 ## `SOBRE`
 
-Repositório criado para documentar minha evolução no **Java**, dos fundamentos da linguagem até conceitos de **Programação Orientada a Objetos**, classes utilitárias, tratamento de exceções, coleções, generics e programação funcional.
+Repositório criado para documentar minha evolução no **Java**, dos fundamentos da linguagem até conceitos de **Programação Orientada a Objetos**, classes utilitárias, tratamento de exceções, coleções, generics, programação funcional e concorrência.
 
 A organização acompanha minha evolução por módulos de estudo. Cada pasta possui um README próprio com as anotações teóricas do assunto, usado como material de revisão pessoal.
 
@@ -60,8 +60,10 @@ JAVA EVOLUTION
 [✓] Parametrizando comportamentos (interfaces funcionais, Predicate)
 [✓] Lambdas / Method Reference
 [✓] Optional
+[✓] Streams
+[✓] Threads (synchronized, wait/notify, deadlock)
 
-[→] Streams
+[→] Concorrência avançada (Executors, CompletableFuture)
 ```
 
 ---
@@ -80,6 +82,8 @@ JAVA EVOLUTION
 | 🧠 Parametrizando comportamentos | Interfaces funcionais próprias, Predicate, generics |
 | ⚡ Lambdas / Method Reference | Consumer, Function, referências `::` |
 | 🔍 Optional | Optional, orElse, orElseThrow, orElseGet |
+| 🌊 Streams | Pipeline, Collectors, groupingBy, streams paralelas |
+| 🧵 Threads | synchronized, race condition, deadlock, wait/notify |
 | 🚀 Projetos | Aplicação prática dos conceitos estudados |
 
 ---
@@ -98,6 +102,8 @@ Evolucao-em-Java/
 ├── Parametrizando comportamentos/
 ├── Lambdas - MethodReference/
 ├── Optional/
+├── Streams/
+├── Threads/
 ├── Projetos/
 ├── .gitignore
 ├── LICENSE
@@ -123,7 +129,7 @@ Evolucao-em-Java/
 
 Language : JAVA
 Version  : 21+
-Focus    : OBJECT-ORIENTED + FUNCTIONAL PROGRAMMING
+Focus    : OOP + FUNCTIONAL + CONCURRENCY
 Modules  : EVOLVING
 Status   : EVOLVING
 
