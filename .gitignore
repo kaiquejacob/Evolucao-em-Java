@@ -3,9 +3,11 @@ target/
 build/
 bin/
 out/
+.gradle/
 *.class
 *.jar
 *.war
+
 
 ### IDEs (IntelliJ, Eclipse, VS Code, NetBeans) ###
 .idea/
